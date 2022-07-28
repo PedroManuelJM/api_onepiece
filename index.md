@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## API ONE PIECE to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/PedroManuelJM/api_onepiece/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##### UNA PEQUEÑA API DE LOS PERSONAJES PRINCIPALES DE ONE PIECE
 
-https://pedromanueljm.github.io/api_onepiece/data.json 
+LINK : :open_file_folder: [API](https://pedromanueljm.github.io/api_onepiece/data.json)
 
 
 
