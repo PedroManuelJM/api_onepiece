@@ -1,6 +1,6 @@
 [
     {"id": "1","nombre": "MONKEY D LUFFY","tripulacion":"mugiwara","foto":"https://user-images.githubusercontent.com/71619972/239720659-862f4f2d-9e82-4a0e-a5a4-1094b6c6fa81.png" ,"bandera":"https://firebasestorage.googleapis.com/v0/b/my-apy-rest.appspot.com/o/onepiece%2Fbanderas%2Fbandera_mugiwara.png?alt=media&token=7623c795-79ab-4a83-9935-40a9d1954424"},
     {"id": "2","nombre": "RORONOA ZORO","tripulacion":"mugiwara","foto":"https://user-images.githubusercontent.com/71619972/239720702-4e410944-191b-43e7-9dce-39ef6d66af2e.png" ,"bandera":"https://firebasestorage.googleapis.com/v0/b/my-apy-rest.appspot.com/o/onepiece%2Fbanderas%2Fbandera_mugiwara.png?alt=media&token=7623c795-79ab-4a83-9935-40a9d1954424"},
-    {"id": "3","nombre": "VINSMOKE SANJI","tripulacion":"mugiwara","https://user-images.githubusercontent.com/71619972/239720807-2a217e5d-b018-4f1e-8164-8774ea09a949.png" ,"bandera":"https://firebasestorage.googleapis.com/v0/b/my-apy-rest.appspot.com/o/onepiece%2Fbanderas%2Fbandera_mugiwara.png?alt=media&token=7623c795-79ab-4a83-9935-40a9d1954424"}
+    {"id": "3","nombre": "VINSMOKE SANJI","tripulacion":"mugiwara","foto":"https://user-images.githubusercontent.com/71619972/239720807-2a217e5d-b018-4f1e-8164-8774ea09a949.png" ,"bandera":"https://firebasestorage.googleapis.com/v0/b/my-apy-rest.appspot.com/o/onepiece%2Fbanderas%2Fbandera_mugiwara.png?alt=media&token=7623c795-79ab-4a83-9935-40a9d1954424"}
   
 ]
